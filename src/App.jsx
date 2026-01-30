@@ -51,6 +51,20 @@ function App() {
                             <ContactShadows position={[0, -2.5, 0]} opacity={0.5} scale={10} blur={1.5} far={4.5} />
                         </Canvas>
                     </div>
+
+                    {/* Mexco PNG */}
+                    <img
+                        src="/mexco.png"
+                        alt="Mexco"
+                        style={{
+                            position: 'absolute',
+                            top: '20px',
+                            left: '20px',
+                            width: '100px',
+                            height: 'auto',
+                            zIndex: 20
+                        }}
+                    />
                 </div>
 
                 {/* Right Side - Form */}
