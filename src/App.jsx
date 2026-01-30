@@ -83,6 +83,9 @@ function App() {
                         <p style={{ marginTop: '1.5rem', fontSize: '0.9rem', opacity: 0.8 }}>
                             $REX only at <a href="https://pump.fun/profile/rexorangecounty" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>https://pump.fun/profile/rexorangecounty</a>
                         </p>
+                        <p style={{ marginTop: '0.5rem', fontSize: '0.8rem', opacity: 0.7, wordBreak: 'break-all', fontFamily: 'monospace' }}>
+                            CA: 6LrX6yR8toombHrVsFyTMMrX9w4BV2gEzmUcqhAKpump
+                        </p>
                     </div>
 
                     <div className="privacy-footer">
