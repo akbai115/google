@@ -52,10 +52,10 @@ function App() {
                         </Canvas>
                     </div>
 
-                    {/* Mexco PNG */}
+                    {/* Mexico PNG */}
                     <img
-                        src="/mexco.png"
-                        alt="Mexco"
+                        src="/mexico.png"
+                        alt="Mexico"
                         style={{
                             position: 'absolute',
                             top: '20px',
